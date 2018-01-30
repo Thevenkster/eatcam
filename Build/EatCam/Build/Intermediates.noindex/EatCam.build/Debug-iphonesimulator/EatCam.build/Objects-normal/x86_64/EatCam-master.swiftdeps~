@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "c47a3c15c13eefc5e0f71bbfe3a08912"
+build_time: [1517156120, 922678000]
+inputs:
+  "/Users/adambrowne/Documents/minnehacks/clotheswearer/testModel/EatCam/EatCam/EatCam/EatCam/ViewController.swift": [1517155335, 0]
+  "/Users/adambrowne/Documents/minnehacks/clotheswearer/testModel/EatCam/EatCam/EatCam/EatCam/AppDelegate.swift": [1517117885, 0]
+  "/Users/adambrowne/Documents/minnehacks/clotheswearer/testModel/EatCam/EatCam/EatCam/Build/EatCam/Build/Intermediates.noindex/EatCam.build/Debug-iphonesimulator/EatCam.build/DerivedSources/CoreMLGenerated/Food101/Food101.swift": [1517155069, 0]
